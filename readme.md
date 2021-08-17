@@ -1,2 +1,2 @@
-olá esse é projeto eu aprender  a usar o git
+olá esse é para eu  projeto  aprender  a usar o git
 alterações
